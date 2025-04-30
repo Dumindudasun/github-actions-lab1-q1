@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-edite 123 55
+edite 123 55s
